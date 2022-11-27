@@ -1,0 +1,7 @@
+package com.javaclass;
+public class DataType{
+public static  void main (String arg []){
+byte b=15;
+system.out.println(b);
+}
+}
